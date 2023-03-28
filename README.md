@@ -1,6 +1,9 @@
 # React-axios
 patika.dev Week1 Assignment
 
+#Description
+This projects uses axios to get user data and their posts from the API and display it on the page.
+
 # Goal of the Assignment
 This function should be defined as "async" and exported as default. Asynchronous functions within the function should be defined with "await".
 
