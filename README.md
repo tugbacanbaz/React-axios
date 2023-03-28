@@ -1,7 +1,7 @@
 # React-axios
 patika.dev Week1 Assignment
 
-#Description
+# Description
 This projects uses axios to get user data and their posts from the API and display it on the page.
 
 # Goal of the Assignment
